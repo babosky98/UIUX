@@ -1,0 +1,123 @@
+<html>
+	<head><link href="https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lato|PT+Sans|ZCOOL+XiaoWei" rel="stylesheet">
+      
+        <title>Page Title</title>
+        <style>
+        	
+            .special{ 
+            	color:crimson;
+                background-color:white;
+                font-weight:bold;
+              }
+            .Title{
+               font-family:'ZCOOL Xiaowei',serif;
+               font-size :20px;
+               color:black
+               
+             }
+            img{ 
+               width:200px;}
+            
+            p{ font-family: 'ZCOOL XiaoWei', serif;
+            	color:black;
+              }
+            
+            .Panel{
+            	background-color:brown; 
+                margin:50px;
+                text-align:center;
+                padding:20px;
+                
+                border:2px solid red;
+                border
+                
+                }
+            
+            h1{
+            	background-color:orange;
+               }
+            body
+            {
+            	background-color:coral;
+            }
+            .center {
+             margin: auto;
+             width: 60%;
+             border: 3px solid #73AD21;
+             padding: 10px;
+           }
+        
+        .Link:hover{   
+            color:yellow;
+            background-color:purple;
+        
+        }
+        
+        .Link:active{
+        
+            color:red;
+            background-color:pink;
+        
+        }
+        </style>
+	</head>
+
+	
+
+<div class="Panel">
+ <img src="https://www.freeart.com/gallery/c/chardin/chardin14.jpg">
+    <p style="background-color:orange;font-size:20px;">
+    <strong>Lady Sealing a Letter</strong></p>
+    <div class="author">Jean-Baptiste-Siméon Chardin</div>
+    <p class="year"> 1670-1671 </p> 
+    <p class="place">National Gallery of Ireland</p>
+    <a href=https://www.freeart.com/gallery/c/chardin/chardin14.html> Visit link </a> 
+    <div>Lady Writing a Letter with her Maid is a painting by the 
+Dutch artist Johannes Vermeer,completed in 1670–1671 and held in the National Gallery of Ireland.The work shows a middle-class woman attended by a housemaid who is presumably acting as messenger and go-between for the lady and her lover. The work is seen as a bridge between the quiet restraint and self-containment of Vermeer's work of the 1660s and his relatively cooler work of the 1670s</div>
+   <a class="Link"> Link </a>
+</div>
+
+
+ 
+<div class="Panel">
+  <img src="https://www.freeart.com/gallery/v/vangogh/vangogh3.jpg">
+  <p style="background-color:orange;font-size:20px;"><storng>Fisherman with Sou'wester</strong></p>
+  <p>January 1883. Black chalk and ink. Rijksmuseum Kröller-Müller, Otterlo, Netherlands..</p>
+  <p>Rijksmuseum Kröller-Müller, Otterlo, Netherlands</p>
+  <div>pencil, lithographic crayon, on paper, 41.7 cm x 26.5 cm 
+Credits (obliged to state): Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)</div>
+  <a href=https://www.wikiart.org/en/vincent-van-gogh/fisherman-with-sou-wester-1883> Visit link </a>
+  <a class="Link"> Link </a>
+</div>  
+  
+  
+<div class="Panel">  
+<img src= "https://www.freeart.com/gallery/e/ernst/ernst3.jpg"class="round">
+<p style="background-color:orange;font-size:20px;"><strong>Untitled</strong></p>
+<div> Mark Rothko</div>
+<div>1920</div>
+<p>Gouache</p>
+<p> Chinese ink and pencil on cardboard. 30 x 25 cm. Private collection
+his image is not available to print and is not available for sale as it may stillbe subject to copyright. It is displayed here under Fair Use.</p>
+<a href=https://www.freeart.com/gallery/e/ernst/ernst3.html> Visit link </a>
+<a class="Link"> Link </a>
+</div>
+
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+	</body>
+
+</html>
+
