@@ -1,0 +1,55 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+
+/* Add the following to  include a centered image. */
+ background-image: url("https://lh3.googleusercontent.com/3WpEyxbW26-aufrJmgTlPz5XkOUP0h1bRa90Aem_NDyc1xZ9Pw_TAvFZ0-EYbzU1hi5chqqahIdytWIg1gA_RETa5dTeJqTruBffOF5A_V3tI3K__rcWHR1GSCc-b9PZtgb36YJLLfp5uLjz4YfSLqGW8osNl-CW0nMLOXFTu5kt3v_l2EckkfhxMh5k_E9NIeb7_nwJ6TwNE4UiPMvT0sgyDmSr0nXIcDEouBsUiNiiLcU2tw9L9VtuLA0o9Y5SkFAlay2e77YCUe6foa36L_KD6_fd6Cx6tlx7mCCVhKU67-izUelZxOmdcjfhOUtlSh7RHUcFJdnXptpz9NTs41Xxsk_aSnZ0YacFTsOefsnmEq0fz5r3JEbYGAH2tpYIYeH5_dbxbCXGdL44WqHI6KBPV0iw1ifA5P_aSrGIKkb8Brce6ZWCBHKW7eHTLYvuEcsxxZP94OKXaAyb_OjnaATBs7nnOXTpsGLH7jKJ9w3hla8-725HqoBnBlrgC8dG8NzDfmBfb4dH919_tdvaALadx-28nBQsXq-NtDZcl6bFRv5UunrV1FQ2H05Qg7qRlh31q4MuEcB2ZhvX9fL5zLABEM9rel5VE_NK9he_oyk7HB_ukzfsMDkN7qGvuZBNb6NJ-bYt_2ozAc4jbDlM1Cfw=w1946-h1296-no");
+
+
+ /* Center and scale the image. */
+ background-position: right;  /* This value can also be left, right */
+ background-repeat: no-repeat;
+ background-size: cover;
+ font-family: 'Playfair Display', serif;
+
+}
+
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 139px 0 100px;
+  
+  /* Add the following to  include a centered image. */
+ background-image: url("https://lh3.googleusercontent.com/NFuP2o6f3DNQJumoNhbaIcNJlmzzoawxTxsIEFVoZ87sqHpKM46p4BKkR2771syQRluXMuqy1u4eUXqR4ZtJKcK1xeJmoptW2f7EHmJkMli_2-2ypCInstZRga_JsBytlpKpirPyKj5XnigROkTT9apQONvZSpWaOB9t-eecHjut8f46glVHbVLB014XZ9iyfq9QTZyT8xfPcKA6t1GxbBhd6ekuYrtjkMYpf87L38RR79hZf696l1J40eRm4Q-JMZGTkVzm8Fhidq4kxn0qsq3Z5-hcI0b2E0a9RINmL-oCutsswzVRPegPAI3YR4YzDJA_HvTm-MEsyhKAbgQAXKQGMqbGHd5ZVG1hOJP_OgvNpJrn2bVRpUx7yIRIofq7OpuO2Pr6-8MkHTp49npkq_z-ODGw0pYommgCyYtS4ptzKaGdpaZNwzDqK_eyLeeWpjpmDjZY5_fbgrSN7i4P7AedXo6DBieRkdmr4O-P57K55A8oZuYmQwdcHfAOw1XrxX9y-0i6F2fDy7zoWEfiIyNEfE9ogke8ta2BPoF-7A58N2lviOy6O-YJbU8wFNYqNDeBEIKXBrlkSHolTPwDya88QpAq2vdVCGXc6bm9ahmwfTD1DMi7hT_E7N6zXaIoBrHjL-aC6aO9mdTYM_CRLxWr=w1946-h1296-no");
+
+
+ /* Center and scale the image. */
+ background-position: right;  /* This value can also be left, right */
+ background-repeat: no-repeat;
+ background-size: cover;
+ font-family: 'Crimson Text', serif;
+
+}
+
+@media (min-width: 992px) {
+  section{
+    padding: 146px 0 100px;
+  }
+
+  
+
+
+
+
+
+
