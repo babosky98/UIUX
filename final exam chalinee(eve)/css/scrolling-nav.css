@@ -1,0 +1,75 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+
+/* Add the following to  include a centered image. */
+ background-image: url("../img/background ugly.jpg");
+
+
+ /* Center and scale the image. */
+ background-position: right;  /* This value can also be left, right */
+ background-repeat: no-repeat;
+ background-size: cover;
+ font-family: 'PT Serif', serif;;
+ color:#2E4147;
+ 
+ 
+  
+
+}
+
+
+
+
+@media (min-width: 992px) {
+  header {
+    padding: 300px 0 150px;
+  }
+}
+
+section {
+  padding: 150px 0 100px;
+
+ /* Center and scale the image. */
+ font-family: 'Crimson Text', serif;
+ /* background-color:#D1D3C7; */
+}
+
+
+  /* Added CSS, 1.7.2019. 
+  These styles describes the colors of each section. */
+  #about{
+    background-image:url("../img/ugly23.jpg");
+    color: white;
+  
+    
+  }
+  #Project{
+    /* Add the following to  include a centered image. */
+    background-image:url("../img/Ugly3.jpg");
+    font-family: 'PT Serif', serif;
+    color:white;
+  
+  }
+  #Mywebsite {
+  /* Add the following to  include a centered image. */
+  background-image: url("../img/66779C.png");
+  }
+
+   #contact
+  {
+     /* Add the following to  include a centered image. */
+      background-image: url("../img/yellow.png");
+
+      /* Center and scale the image. */
+      background-position: right;  /* This value can also be left, right */
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
+ 
